@@ -73,3 +73,9 @@ python scripts/assemble_karaoke.py --project-dir . --output final_output.mp4
 * [Google Colab](https://colab.research.google.com/) ｜ [google-colab-cli (PyPI)](https://pypi.org/project/google-colab-cli/)
 * [Comfy-Org / MiniMax-H3 (Hugging Face)](https://huggingface.co/Comfy-Org/MiniMax-H3) ｜ [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 * [Faster-Whisper](https://github.com/SYSTRAN/faster-whisper) ｜ [FFmpeg](https://ffmpeg.org/)
+
+---
+
+## 授權條款（License）
+
+本 Skill 程式碼與文件採 [MIT License](LICENSE) 授權；推論所呼叫之第三方模型與工具（如 MiniMax H3、ComfyUI、Faster-Whisper、FFmpeg 等）各依其上游官方授權條款辦理。
